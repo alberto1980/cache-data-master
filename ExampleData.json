@@ -1,0 +1,116 @@
+
+{
+  "602e39ac4bd67d1dc057741b": {
+  "id": "602e39ac4bd67d1dc057741b",
+  "iconName": "home",
+  "title": "Inicio",
+  "href": "/sites/EscritorioUnificadoDev",
+  "parentId": "1",
+  "number": "0",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "aside-inicio",
+  "environments": [
+    "DEV",
+    "PROD"
+  ]
+ },"602e39ac4bd67d1dc057741a": {
+  "id": "602e39ac4bd67d1dc057741a",
+  "iconName": "briefcase-02",
+  "title": "Comercial",
+  "href": "/sites/PortalComercialDev",
+  "parentId": "1",
+  "number": "2",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "PROD"
+  ]
+},"602e39ac4bd67d1dc0577419": {
+  "id": "602e39ac4bd67d1dc0577419",
+  "iconName": "bar-chart",
+  "title": "Servicios de Inversión",
+  "href": "/sites/EscritorioUnificadoDev/SitePages/EstrategiaMercado.aspx",
+  "parentId": "1",
+  "number": "1",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "aside-servicios-inversion",
+  "environments": [
+    "DEV",
+    "PROD"
+  ]
+},"602e39ac4bd67d1dc057741c": {
+  "id": "602e39ac4bd67d1dc057741c",
+  "iconName": "Quality",
+  "title": "Calidad",
+  "href": "/sites/EscritorioUnificadoDev/calidad",
+  "parentId": "1",
+  "number": "7",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "calidad",
+  "environments": [
+    "PROD"
+  ]
+}}
