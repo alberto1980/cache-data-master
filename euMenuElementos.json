@@ -1,0 +1,6125 @@
+[{
+  "_id": {
+    "$oid": "602e39ac4bd67d1dc057741b"
+  },
+  "iconName": "home",
+  "title": "Inicio",
+  "href": "/sites/EscritorioUnificado{env}",
+  "parentId": "1",
+  "number": "0",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "aside-inicio",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },{
+  "_id": {
+    "$oid": "602e39ac4bd67d1dc057741a"
+  },
+  "iconName": "briefcase-02",
+  "title": "Comercial",
+  "href": "/sites/PortalComercial{env}",
+  "parentId": "1",
+  "number": "2",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e39ac4bd67d1dc0577419"
+  },
+  "iconName": "bar-chart",
+  "title": "Servicios de Inversión",
+  "href": "/sites/EscritorioUnificado{env}/SitePages/EstrategiaMercado.aspx",
+  "parentId": "1",
+  "number": "1",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "aside-servicios-inversion",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e39ac4bd67d1dc057741c"
+  },
+  "iconName": "Quality",
+  "title": "Calidad",
+  "href": "/sites/EscritorioUnificado{env}/calidad",
+  "parentId": "1",
+  "number": "7",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "calidad",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60a7592d0d0e1a19d4868942"
+  },
+  "iconName": "filter_default",
+  "title": "Aplicativo de calidad",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741c",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60a75a740d0e1a19d4868943"
+  },
+  "iconName": "",
+  "title": "Aplicativo de calidad",
+  "href": "/calidad/login",
+  "parentId": "60a7592d0d0e1a19d4868942",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+   "$oid":"61a8a4cc46abd71f88b20800"
+  },
+  "iconName": "star",
+  "title": "Soluciones a Clientes",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741c",
+  "number": "2",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+    "$oid":"61a8a4fc46abd71f88b20801"
+  },
+  "iconName": "",
+  "title": "Soluciones a Clientes",
+  "href": "/sites/EscritorioUnificado{env}/calidad/SitePages/Centro-de-Soluciones-a-Clientes.aspx",
+  "parentId": "61a8a4cc46abd71f88b20800",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60a75b100d0e1a19d4868944"
+  },
+  "iconName": "OK",
+  "title": "Protocolos",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741c",
+  "number": "1",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60a75b6e0d0e1a19d4868945"
+  },
+  "iconName": "",
+  "title": "Protocolos",
+  "href": "/sites/EscritorioUnificado{env}/calidad/SitePages/Protocolos.aspx",
+  "parentId": "60a75b100d0e1a19d4868944",
+  "number": "1",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60a75c210d0e1a19d4868946"
+  },
+  "iconName": "arrow-right-circle",
+  "title": "Accesos directos",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741c",
+  "number": "3",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60a75c840d0e1a19d4868947"
+  },
+  "iconName": "",
+  "title": "Calidad Interna",
+  "href": "/sites/EscritorioUnificado{env}/calidad/SitePages/CalidadInterna.aspx",
+  "parentId": "60a75c210d0e1a19d4868946",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60a7780b0d0e1a19d4868948"
+  },
+  "iconName": "",
+  "title": "Calidad Externa",
+  "href": "/sites/EscritorioUnificado{env}/calidad/SitePages/CalidadExterna.aspx",
+  "parentId": "60a75c210d0e1a19d4868946",
+  "number": "2",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60a778b20d0e1a19d4868949"
+  },
+  "iconName": "",
+  "title": "Mystery shopping",
+  "href": "/sites/EscritorioUnificado{env}/calidad/SitePages/Mystery.aspx",
+  "parentId": "60a75c210d0e1a19d4868946",
+  "number": "3",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60a779130d0e1a19d486894a"
+  },
+  "iconName": "",
+  "title": "Informes / Encuestas",
+  "href": "/sites/EscritorioUnificado{env}/calidad/SitePages/EncuestasInformes.aspx",
+  "parentId": "60a75c210d0e1a19d4868946",
+  "number": "4",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60a779a70d0e1a19d486894b"
+  },
+  "iconName": "news",
+  "title": "Noticias",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741c",
+  "number": "4",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60a77a0d0d0e1a19d486894c"
+  },
+  "iconName": "",
+  "title": "Noticias",
+  "href": "/sites/EscritorioUnificado{env}/calidad/SitePages/Noticias.aspx",
+  "parentId": "60a779a70d0e1a19d486894b",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e39ac4bd67d1dc057741d"
+  },
+  "iconName": "two",
+  "title": "Personas",
+  "href": "/webpersonas",
+  "parentId": "1",
+  "number": "5",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3ca14bd67d1dc0577420"
+  },
+  "iconName": "search",
+  "title": "Selector Clientes",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc0577419",
+  "number": "0",
+  "className": "iconList__item iconList__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"61a4c83946abd71f88b207fb"
+  },
+  "iconName": "Dots",
+  "title": "Contratos en curso",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc0577419",
+  "number": "1",
+  "className": "iconList__item iconList__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61482769b0dc0122f4d5949b"
+  },
+  "iconName": "justice",
+  "title": "Portal Normativo",
+  "href": "/portal-normativo",
+  "parentId": "1",
+  "number": "6",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": false,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3ca14bd67d1dc0577421"
+  },
+  "iconName": "strategy",
+  "title": "Estrategia y Gestión",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc0577419",
+  "number": "2",
+  "className": "iconList__item iconList__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e39ac4bd67d1dc057741e"
+  },
+  "iconName": "Question",
+  "title": "Centro de Conocimiento",
+  "href": "/sites/CentroConocimiento{env}",
+  "parentId": "1",
+  "number": "3",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3ca14bd67d1dc0577422"
+  },
+  "iconName": "chart",
+  "title": "Reporting",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc0577419",
+  "number": "5",
+  "className": "iconList__item",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3ca14bd67d1dc0577423"
+  },
+  "iconName": "simple",
+  "title": "Asesorar",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc0577419",
+  "number": "6",
+  "className": "iconList__item",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3ca14bd67d1dc0577424"
+  },
+  "iconName": "clipboard",
+  "title": "Ordenes",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc0577419",
+  "number": "7",
+  "className": "iconList__item",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3ca14bd67d1dc0577426"
+  },
+  "iconName": "pen-outlined",
+  "title": "Firma",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc0577419",
+  "number": "9",
+  "className": "iconList__item",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": false,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"6183cc217a407e1b2411304e"
+  },
+  "iconName": "",
+  "title": "Firma",
+  "href": "/#/firma",
+  "parentId": "602e3ca14bd67d1dc0577426",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "617257377a407e1b2411304d"
+  },
+  "iconName": "book_open",
+  "title": "Centro de Información",
+  "href": "/centroinformacion",
+  "parentId": "1",
+  "number": "4",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"6297107956d0881e18f0cef9"
+  },
+  "iconName": "feedback",
+  "title": "feedback",
+  "href": "",
+  "parentId": "1",
+  "number": "9",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3e4f4bd67d1dc0577427"
+  },
+  "iconName": "search",
+  "title": "Selector Clientes",
+  "href": "/#/buscador",
+  "parentId": "602e3ca14bd67d1dc0577420",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3f444bd67d1dc0577428"
+  },
+  "iconName": "",
+  "title": "Información de Mercados",
+  "href": "/#/info-mercado",
+  "parentId": "602e3ca14bd67d1dc0577421",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3f444bd67d1dc0577429"
+  },
+  "iconName": "",
+  "title": "Índices",
+  "href": "/#/indices",
+  "parentId": "602e3ca14bd67d1dc0577421",
+  "number": "2",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3ca14bd67d1dc0577425"
+  },
+  "iconName": "star",
+  "title": "Datos Clientes",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc0577419",
+  "number": "8",
+  "className": "iconList__item iconList__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3f444bd67d1dc057742a"
+  },
+  "iconName": "",
+  "title": "Agenda",
+  "href": "/#/agenda",
+  "parentId": "602e3ca14bd67d1dc0577421",
+  "number": "4",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3f444bd67d1dc057742b"
+  },
+  "iconName": "",
+  "title": "Noticias",
+  "href": "/#/noticias",
+  "parentId": "602e3ca14bd67d1dc0577421",
+  "number": "3",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3f444bd67d1dc057742c"
+  },
+  "iconName": "",
+  "title": "Informes de Estrategia",
+  "href": "/sites/EscritorioUnificado{env}/SitePages/EstrategiaMercado.aspx",
+  "parentId": "602e3ca14bd67d1dc0577421",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"6242d9e483310706bcca6659"
+  },
+  "iconName": "",
+  "title": "Buscador",
+  "href": "/#/invest",
+  "parentId": "602e3ca14bd67d1dc0577421",
+  "number": "5",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e40c94bd67d1dc057742e"
+  },
+  "iconName": "",
+  "title": "Puntual",
+  "href": "/buscar-clientes",
+  "parentId": "602e3ca14bd67d1dc0577423",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e3fdd4bd67d1dc057742d"
+  },
+  "iconName": "",
+  "title": "Open Finance",
+  "href": "/buscar-clientes",
+  "parentId": "602e3ca14bd67d1dc0577422",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e41524bd67d1dc0577430"
+  },
+  "iconName": "",
+  "title": "Tareas Activas",
+  "href": "/ventanillaunica",
+  "parentId": "602e3ca14bd67d1dc0577424",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e40c94bd67d1dc057742f"
+  },
+  "iconName": "",
+  "title": "Recurrente",
+  "href": "/buscar-clientes",
+  "parentId": "602e3ca14bd67d1dc0577423",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e41524bd67d1dc0577431"
+  },
+  "iconName": "",
+  "title": "Nueva Orden",
+  "href": "/nuevaorden",
+  "parentId": "602e3ca14bd67d1dc0577424",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e41c64bd67d1dc0577432"
+  },
+  "iconName": "",
+  "title": "Mantenimiento",
+  "href": "/busqueda-mantenimiento",
+  "parentId": "602e3ca14bd67d1dc0577425",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e41c64bd67d1dc0577433"
+  },
+  "iconName": "",
+  "title": "Alta de Clientes",
+  "href": "/gestion-cliente",
+  "parentId": "602e3ca14bd67d1dc0577425",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e437b4bd67d1dc0577434"
+  },
+  "iconName": "change",
+  "title": "Actualidad",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741b",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e440b4bd67d1dc0577437"
+  },
+  "iconName": "",
+  "title": "Noticias",
+  "href": "/sites/EscritorioUnificado{env}/SitePages/Noticias.aspx",
+  "parentId": "602e437b4bd67d1dc0577434",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60ed8bf02ffa8a2a608ec69d"
+  },
+  "iconName": "reputacion",
+  "title": "Reputación",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741b",
+  "number": "2",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": false,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"629f121756d0881e18f0cefc"
+  },
+  "iconName": "Mortarboard",
+  "title": "eMarch",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741b",
+  "number": "3",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e437b4bd67d1dc0577436"
+  },
+  "iconName": "Denuncias",
+  "title": "Canal de denuncias",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741b",
+  "number": "4",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e440b4bd67d1dc0577438"
+  },
+  "iconName": "",
+  "title": "Nuestros protagonistas",
+  "href": "/sites/EscritorioUnificado{env}/SitePages/NuestrosProtagonistas.aspx",
+  "parentId": "602e437b4bd67d1dc0577434",
+  "number": "3",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e440b4bd67d1dc0577439"
+  },
+  "iconName": "",
+  "title": "Dossier de prensa",
+  "href": "/sites/EscritorioUnificado{env}/SitePages/Dossier.aspx",
+  "parentId": "602e437b4bd67d1dc0577434",
+  "number": "1",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e437b4bd67d1dc0577435"
+  },
+  "iconName": "one",
+  "title": "Nosotros",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741b",
+  "number": "1",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"60ab76ab0d0e1a19d486894d"
+  },
+  "iconName": "",
+  "title": "Brand center",
+  "href": "/brandcenter",
+  "parentId": "602e437b4bd67d1dc0577435",
+  "number": "2",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"624436ad83310706bcca665a"
+  },
+  "iconName": "",
+  "title": "Portal Bienestar",
+  "href": "/portal-bienestar",
+  "parentId": "602e437b4bd67d1dc0577435",
+  "number": "3",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e47fd4bd67d1dc057743b"
+  },
+  "iconName": "",
+  "title": "Nuestros Valores",
+  "href": "/sites/EscritorioUnificado{env}/SitePages/Nuestros-valores.aspx",
+  "parentId": "602e437b4bd67d1dc0577435",
+  "number": "1",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e47fd4bd67d1dc057743a"
+  },
+  "iconName": "",
+  "title": "Organigrama",
+  "href": "/organigrama",
+  "parentId": "602e437b4bd67d1dc0577435",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e47fd4bd67d1dc057743e"
+  },
+  "iconName": "",
+  "title": "RSC",
+  "href": "/sites/EscritorioUnificado{env}/SitePages/Voluntariado.aspx",
+  "parentId": "602e437b4bd67d1dc0577435",
+  "number": "5",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e47fd4bd67d1dc057743d"
+  },
+  "iconName": "",
+  "title": "Web corporativas",
+  "href": "/sites/EscritorioUnificado{env}/SitePages/WebsCorporativas.aspx",
+  "parentId": "602e437b4bd67d1dc0577435",
+  "number": "4",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e47fd4bd67d1dc0577440"
+  },
+  "iconName": "",
+  "title": "Código ético y conducta",
+  "href": "/etico",
+  "parentId": "602e437b4bd67d1dc0577435",
+  "number": "6",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e49184bd67d1dc0577441"
+  },
+  "iconName": "search",
+  "title": "Buscador de noticias",
+  "href": "/sites/EscritorioUnificado{env}/SitePages/Buscador.aspx",
+  "parentId": "0",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "header-buscador-noticias",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e49184bd67d1dc0577442"
+  },
+  "iconName": "card_square",
+  "title": "Buscador de personas",
+  "href": "/buscador-personas",
+  "parentId": "0",
+  "number": "1",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e49184bd67d1dc0577443"
+  },
+  "iconName": "Squares",
+  "title": "Aplicaciones",
+  "href": "/sites/EscritorioUnificado{env}/SitePages/Apps.aspx",
+  "parentId": "0",
+  "number": "2",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "header-aplicaciones",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+	"$oid": "6128a71389c5cc17f4837872"
+  },
+  "iconName": "profileSideBtn",
+  "title": "Segmento y Centro",
+  "href": "",
+  "parentId": "0",
+  "number": "3",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": ["admin", "client", "reader"],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "header-profileSideBtn",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e496f4bd67d1dc0577444"
+  },
+  "iconName": "",
+  "title": "host",
+  "href": "",
+  "parentId": "2",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602e47fd4bd67d1dc057743f"
+  },
+  "iconName": "",
+  "title": "Sección sindical",
+  "href": "/sites/EscritorioUnificado{env}/SitePages/sindical.aspx",
+  "parentId": "602e437b4bd67d1dc0577435",
+  "number": "7",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "603f96f94bd67d1dc0577445"
+  },
+  "iconName": "chartCombo",
+  "title": "Propuesta de Valor",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc0577419",
+  "number": "3",
+  "className": "iconList__item iconList__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "603f974b4bd67d1dc0577446"
+  },
+  "iconName": "chartCombo",
+  "title": "Propuesta de Valor",
+  "href": "/sites/EscritorioUnificado{env}/SitePages/PitchBook.aspx",
+  "parentId": "603f96f94bd67d1dc0577445",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+    "_id":{
+		"$oid":"60ade9ea0d0e1a19d486894e"
+	},
+    "iconName": "card_identification",
+    "title": "Productos y Servicios",
+    "href": "",
+    "parentId": "602e39ac4bd67d1dc0577419",
+    "number": "4",
+    "className": "iconList__item iconList__item--double",
+    "toolTipText": "",
+    "shortTitle": "",
+    "roles": ["admin", "client", "reader"],
+    "targetSp": "_self",
+    "targetAngular": "_self",
+    "visibleSp": true,
+    "visibleAngular": true,
+    "type": "MENU",
+    "rel": "",
+    "restApi": false,
+    "externalLinkAngular": false,
+    "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+    "_id":{
+		"$oid":"60adea430d0e1a19d486894f"
+	},
+    "iconName": "card_identification",
+    "title": "Asesoramiento Puntual",
+    "href": "/#/tesoreria",
+    "parentId": "60ade9ea0d0e1a19d486894e",
+    "number": "0",
+    "className": "itemMenu__item itemMenu__item--double",
+    "toolTipText": "",
+    "shortTitle": "",
+    "roles": ["admin", "client", "reader"],
+    "targetSp": "_self",
+    "targetAngular": "_self",
+    "visibleSp": true,
+    "visibleAngular": true,
+    "type": "MENU",
+    "rel": "",
+    "restApi": false,
+    "externalLinkAngular": false,
+    "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+    "_id":{
+		"$oid":"629f12d956d0881e18f0cefd"
+	},
+    "iconName": "",
+    "title": "Campus eMarch",
+    "href": "/api/escritorio-unificado/v1/emarch/login",
+    "parentId": "629f121756d0881e18f0cefc",
+    "number": "0",
+    "className": "",
+    "toolTipText": "",
+    "shortTitle": "",
+    "roles": ["admin", "client", "reader"],
+    "targetSp": "_blank",
+    "targetAngular": "_self",
+    "visibleSp": true,
+    "visibleAngular": false,
+    "type": "MENU",
+    "rel": "",
+    "restApi": true,
+    "externalLinkAngular": false,
+    "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+    "_id":{
+		"$oid":"62b05e4b307e8e1ca03dba1d"
+	},
+    "iconName": "",
+    "title": "GDC y Asesoramiento Recurrente",
+    "href": "/portal-comercial/gdc",
+    "parentId": "60ade9ea0d0e1a19d486894e",
+    "number": "1",
+    "className": "itemMenu__item itemMenu__item--double",
+    "toolTipText": "",
+    "shortTitle": "",
+    "roles": ["admin", "client", "reader"],
+    "targetSp": "_blank",
+    "targetAngular": "_blank",
+    "visibleSp": true,
+    "visibleAngular": true,
+    "type": "MENU",
+    "rel": "",
+    "restApi": false,
+    "externalLinkAngular": true,
+    "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+    "_id":{
+		"$oid":"62b05e4b307e8e1ca03dba1e"
+	},
+    "iconName": "",
+    "title": "GDC y Asesoramiento Recurrente (B.Personal)",
+    "href": "/portal-comercial/gdc-bpersonal",
+    "parentId": "60ade9ea0d0e1a19d486894e",
+    "number": "2",
+    "className": "itemMenu__item itemMenu__item--double",
+    "toolTipText": "",
+    "shortTitle": "",
+    "roles": ["admin", "client", "reader"],
+    "targetSp": "_blank",
+    "targetAngular": "_blank",
+    "visibleSp": true,
+    "visibleAngular": true,
+    "type": "MENU",
+    "rel": "",
+    "restApi": false,
+    "externalLinkAngular": true,
+    "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+    "_id":{
+		"$oid":"62b05e4b307e8e1ca03dba1f"
+	},
+    "iconName": "",
+    "title": "Coinversión",
+    "href": "/portal-comercial/coinversion",
+    "parentId": "60ade9ea0d0e1a19d486894e",
+    "number": "3",
+    "className": "itemMenu__item itemMenu__item--double",
+    "toolTipText": "",
+    "shortTitle": "",
+    "roles": ["admin", "client", "reader"],
+    "targetSp": "_blank",
+    "targetAngular": "_blank",
+    "visibleSp": true,
+    "visibleAngular": true,
+    "type": "MENU",
+    "rel": "",
+    "restApi": false,
+    "externalLinkAngular": false,
+    "externalLinkSh": true,
+	"environments": [
+		"DEV",
+		"TEST",
+		"FF",
+		"PRE",
+		"PRO"
+  ]
+},{
+    "_id": {
+        "$oid": "6064246332f95e1734f5ae4b"
+    },
+    "iconName": "",
+    "title": "Canal de Denuncia Confidencial",
+    "href": "/canaldenuncias",
+    "parentId": "602e437b4bd67d1dc0577436",
+    "number": "0",
+    "className": "",
+    "toolTipText": "",
+    "shortTitle": "",
+    "roles": ["admin", "client", "reader"],
+    "targetSp": "_blank",
+    "targetAngular": "_self",
+    "visibleSp": true,
+    "visibleAngular": false,
+    "type": "MENU",
+    "rel": "",
+    "restApi": false,
+    "externalLinkAngular": false,
+    "externalLinkSh": true,
+	"environments": [
+		"DEV",
+		"TEST",
+		"FF",
+		"PRE",
+		"PRO"
+	 ]
+},{
+    "_id":{
+		"$oid":"60ed8cc82ffa8a2a608ec69e"
+	},
+    "iconName": "",
+    "title": "Reputación",
+    "href": "/sites/EscritorioUnificado{env}/SitePages/Reputacion-y-Riesgos.aspx",
+    "parentId": "60ed8bf02ffa8a2a608ec69d",
+    "number": "0",
+    "className": "",
+    "toolTipText": "",
+    "shortTitle": "",
+    "roles": ["admin", "client", "reader"],
+    "targetSp": "_self",
+    "targetAngular": "_self",
+    "visibleSp": true,
+    "visibleAngular": false,
+    "type": "MENU",
+    "rel": "",
+    "restApi": false,
+    "externalLinkAngular": false,
+    "externalLinkSh": false,
+	"environments": [
+		"DEV",
+		"TEST",
+		"FF",
+		"PRE",
+		"PRO"
+	]
+},{
+	"_id": {
+        "$oid": "6064255132f95e1734f5ae4c"
+    },
+    "iconName": "",
+    "title": "Novedades",
+    "href": "/sites/EscritorioUnificado{env}/SitePages/Novedades.aspx",
+    "parentId": "602e437b4bd67d1dc0577434",
+    "number": "2",
+    "className": "",
+    "toolTipText": "",
+    "shortTitle": "",
+    "roles": ["admin", "client", "reader"],
+    "targetSp": "_self",
+    "targetAngular": "_self",
+    "visibleSp": true,
+    "visibleAngular": false,
+    "type": "MENU",
+    "rel": "",
+    "restApi": false,
+    "externalLinkAngular": false,
+    "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61289f3e89c5cc17f4837862"
+  },
+  "iconName": "search",
+  "title": "Buscar",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741a",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": false,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61289f3e89c5cc17f4837863"
+  },
+  "iconName": "shopping-cart",
+  "title": "Comercial",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741a",
+  "number": "1",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": false,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"617001997a407e1b24113041"
+  },
+  "iconName": "",
+  "title": "Comercial",
+  "href": "/sites/PortalComercial{env}/SitePages/DistributivaCampañas.aspx",
+  "parentId": "61289f3e89c5cc17f4837863",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61289f3e89c5cc17f4837864"
+  },
+  "iconName": "score",
+  "title": "Informes",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741a",
+  "number": "6",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"624eb14d83310706bcca665b"
+  },
+  "iconName": "layers",
+  "title": "Áreas de soporte",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741a",
+  "number": "7",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61289f3e89c5cc17f4837865"
+  },
+  "iconName": "ID",
+  "title": "Productos",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741a",
+  "number": "2",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61289f3e89c5cc17f4837866"
+  },
+  "iconName": "focus",
+  "title": "Soportes",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741a",
+  "number": "4",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61289f3e89c5cc17f4837867"
+  },
+  "iconName": "crosshair",
+  "title": "Captación",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741a",
+  "number": "7",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": false,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "617002aa7a407e1b24113042"
+  },
+  "iconName": "",
+  "title": "Captación",
+  "href": "/captacion",
+  "parentId": "61289f3e89c5cc17f4837867",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61289f3e89c5cc17f4837868"
+  },
+  "iconName": "sun",
+  "title": "Unidades Especializ.",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741a",
+  "number": "3",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "62c6bc09a4a2981cf49d2625"
+  },
+  "iconName": "tag",
+  "title": "Precios",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741a",
+  "number": "5",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+ "_id":{
+	"$oid":"630336fd3c4c1812b0b6420c"
+  },
+  "iconName": "CRM2",
+  "title": "CRM",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741a",
+  "number": "6",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{  "_id": {
+    "$oid": "6128a1a689c5cc17f4837869"
+  },
+  "iconName": "",
+  "title": "Ahorro",
+  "href": "/sites/PortalComercial{env}/productos/SitePages/FamiliaProductos.aspx?Familia=Ahorro",
+  "parentId": "61289f3e89c5cc17f4837865",
+  "number": "2",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "noopener noreferrer nofollow",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "forceRedirect": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "6128a1a689c5cc17f483786a"
+  },
+  "iconName": "",
+  "title": "Otros Productos y Servicios",
+  "href": "/sites/PortalComercial{env}/productos/SitePages/FamiliaProductos.aspx?Familia=Otros Productos y Servicios",
+  "parentId": "61289f3e89c5cc17f4837865",
+  "number": "9",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "noopener noreferrer nofollow",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "forceRedirect": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"62d8ecd4c12e0b1d0c0dcfd6"
+  },
+  "iconName": "",
+  "title": "Hemeroteca Productos",
+  "href": "/portal-comercial/hemeroteca",
+  "parentId": "61289f3e89c5cc17f4837865",
+  "number": "10",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "noopener noreferrer nofollow",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "forceRedirect": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "6128a1a689c5cc17f483786b"
+  },
+  "iconName": "",
+  "title": "Financiación",
+  "href": "/sites/PortalComercial{env}/productos/SitePages/FamiliaProductos.aspx?Familia=Financiación",
+  "parentId": "61289f3e89c5cc17f4837865",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "noopener noreferrer nofollow",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "forceRedirect": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "6128a1a689c5cc17f483786c"
+  },
+  "iconName": "",
+  "title": "COMEX",
+  "href": "/sites/PortalComercial{env}/productos/SitePages/FamiliaProductos.aspx?Familia=COMEX",
+  "parentId": "61289f3e89c5cc17f4837865",
+  "number": "10",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": false,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "noopener noreferrer nofollow",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "forceRedirect": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "6128a1a689c5cc17f483786d"
+  },
+  "iconName": "",
+  "title": "Inversión",
+  "href": "/sites/PortalComercial{env}/productos/SitePages/FamiliaProductos.aspx?Familia=Inversión",
+  "parentId": "61289f3e89c5cc17f4837865",
+  "number": "1",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "noopener noreferrer nofollow",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "forceRedirect": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "6128a1a689c5cc17f483786e"
+  },
+  "iconName": "",
+  "title": "Productos y Servicios Especializados",
+  "href": "/sites/PortalComercial{env}/productos/SitePages/FamiliaProductos.aspx?Familia=Productos y Servicios Especializados",
+  "parentId": "61289f3e89c5cc17f4837865",
+  "number": "4",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "noopener noreferrer nofollow",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "forceRedirect": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "6128a1a689c5cc17f483786f"
+  },
+  "iconName": "",
+  "title": "Seguros Ahorro",
+  "href": "/sites/PortalComercial{env}/productos/SitePages/FamiliaProductos.aspx?Familia=Seguros Ahorro",
+  "parentId": "61289f3e89c5cc17f4837865",
+  "number": "6",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "noopener noreferrer nofollow",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "forceRedirect": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "616fcf357a407e1b24113040"
+  },
+  "iconName": "",
+  "title": "Seguros Riesgo",
+  "href": "/sites/PortalComercial{env}/productos/SitePages/FamiliaProductos.aspx?Familia=Seguros Riesgo",
+  "parentId": "61289f3e89c5cc17f4837865",
+  "number": "7",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "noopener noreferrer nofollow",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "forceRedirect": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "6128a1a689c5cc17f4837870"
+  },
+  "iconName": "",
+  "title": "Previsión",
+  "href": "/sites/PortalComercial{env}/productos/SitePages/FamiliaProductos.aspx?Familia=Previsión",
+  "parentId": "61289f3e89c5cc17f4837865",
+  "number": "3",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "noopener noreferrer nofollow",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "forceRedirect": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "6128a1a689c5cc17f4837871"
+  },
+  "iconName": "",
+  "title": "Medios de Pago",
+  "href": "/sites/PortalComercial{env}/productos/SitePages/FamiliaProductos.aspx?Familia=Medios de Pago",
+  "parentId": "61289f3e89c5cc17f4837865",
+  "number": "5",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "noopener noreferrer nofollow",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "forceRedirect": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61716df57a407e1b24113043"
+  },
+  "iconName": "cash",
+  "title": "Ahorro",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741e",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": false,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61716df57a407e1b24113044"
+  },
+  "iconName": "transference",
+  "title": "Transf.",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741e",
+  "number": "9",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61716df57a407e1b24113045"
+  },
+  "iconName": "personal-loans",
+  "title": "Recaudac. y pensiones",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741e",
+  "number": "8",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61716df57a407e1b24113046"
+  },
+  "iconName": "endorsement",
+  "title": "Cheques y pagarés",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741e",
+  "number": "2",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61716df57a407e1b24113047"
+  },
+  "iconName": "Certificados",
+  "title": "Certificados y testamen.",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741e",
+  "number": "1",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61716df57a407e1b24113048"
+  },
+  "iconName": "eye",
+  "title": "Previsión",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741e",
+  "number": "5",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": false,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "61716df57a407e1b24113049"
+  },
+  "iconName": "CajaEfectivo",
+  "title": "Caja y efectivo",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741e",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"62e22a2d85729c23b422eb02"
+  },
+  "iconName": "pen-outlined",
+  "title": "Doc. y Firma",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741e",
+  "number": "6",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"62e22a7485729c23b422eb03"
+  },
+  "iconName": "aid-european-funds",
+  "title": "Débitos SEPA",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741e",
+  "number": "5",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},
+{
+  "_id":{
+	"$oid":"62723948d72b041a0044bc4b"
+  },
+  "iconName": "",
+  "title": "Ahorro",
+  "href": "/sites/CentroConocimiento{env}/procesos/SitePages/DistributivaFam.aspx?familia=1&famTitle=Ahorro",
+  "parentId": "61716df57a407e1b24113043",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},
+{
+  "_id":{
+	"$oid":"627239d5d72b041a0044bc4c"
+  },
+  "iconName": "",
+  "title": "Previsión",
+  "href": "/sites/CentroConocimiento{env}/procesos/SitePages/DistributivaFam.aspx?familia=6&famTitle=Previsión",
+  "parentId": "61716df57a407e1b24113048",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},
+{
+  "_id":{
+	"$oid":"62a0a95656d0881e18f0cefe"
+  },
+  "title": "Caja y efectivo",
+  "href":"/sites/CentroConocimiento{env}/procesos/SitePages/DistributivaFam.aspx?familia=16&famTitle=Caja y efectivo",
+  "parentId": "61716df57a407e1b24113049",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"62a0aa6d56d0881e18f0ceff"
+  },
+  "title": "Certificados y testamen.",
+  "href":"/sites/CentroConocimiento{env}/procesos/SitePages/DistributivaFam.aspx?familia=19&famTitle=Certificados",
+  "parentId": "61716df57a407e1b24113047",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"62a0ab6656d0881e18f0cf00"
+  },
+  "title": "Cheques y pagarés",
+  "href":"/sites/CentroConocimiento{env}/procesos/SitePages/DistributivaFam.aspx?familia=21&famTitle=Cheques y pagarés",
+  "parentId": "61716df57a407e1b24113046",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+   "_id":{
+	"$oid":"62a0abf056d0881e18f0cf01"
+   },
+  "title": "Recaudaciones y pensiones",
+  "href":"/sites/CentroConocimiento{env}/procesos/SitePages/DistributivaFam.aspx?familia=32&famTitle=Recaudaciones, embargos y prestaciones",
+  "parentId": "61716df57a407e1b24113045",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+   "_id":{
+	"$oid":"62a0ac7656d0881e18f0cf02"
+   },
+  "title": "Transferencias",
+  "href":"/sites/CentroConocimiento{env}/procesos/SitePages/DistributivaFam.aspx?familia=31&famTitle=Transferencias",
+  "parentId": "61716df57a407e1b24113044",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+   "_id":{
+	"$oid":"62e22c6385729c23b422eb04"
+   },
+  "title": "Documentación y Firma",
+  "href":"/sites/CentroConocimiento{env}/procesos/SitePages/DistributivaFam.aspx?familia=14&famTitle=Documentación y firma",
+  "parentId": "62e22a2d85729c23b422eb02",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"62e22c9c85729c23b422eb05"
+  },
+  "title": "Débitos y cedentes SEPA",
+  "href":"/sites/CentroConocimiento{env}/procesos/SitePages/DistributivaFam.aspx?familia=22&famTitle=Débitos y cedentes SEPA",
+  "parentId": "62e22a7485729c23b422eb03",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},
+{
+  "_id":{
+	"$oid":"61a4c99a46abd71f88b207fc"
+  },
+  "iconName": "",
+  "title": "Mis Procesos",
+  "href": "/terminal-operativo/#/mis-procesos",
+  "parentId": "61a4c83946abd71f88b207fb",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+ 
+ "_id":{
+   "$oid":"61a4c9e846abd71f88b207fd"
+  },
+  "iconName": "",
+  "title": "Autorizaciones Pendientes",
+  "href": "/terminal-operativo/#/mis-autorizaciones",
+  "parentId": "61a4c83946abd71f88b207fb",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"620b75ed7937131d34a2afff"
+  },
+  "iconName": "",
+  "title": "Tesorería",
+  "href": "/sites/PortalComercial{env}/contenidos/SitePages/Tesoreria.aspx",
+  "parentId": "61289f3e89c5cc17f4837868",
+  "number": "3",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"620b75ed7937131d34a2b000"
+  },
+  "iconName": "",
+  "title": "Seguros Riesgo",
+  "href": "/sites/PortalComercial{env}/contenidos/SitePages/Riesgos.aspx",
+  "parentId": "61289f3e89c5cc17f4837868",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"626a7f47d72b041a0044bc4a"
+  },
+  "iconName": "",
+  "title": "Coinversión",
+  "href": "/sites/PortalComercial{env}/contenidos/SitePages/Coinversion.aspx",
+  "parentId": "61289f3e89c5cc17f4837868",
+  "number": "4",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": false,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+    "$oid":"627a47b3d72b041a0044bc4d"
+  },
+  "iconName": "",
+  "title": "Seguridad de la Información",
+  "href": "/sites/PortalComercial{env}/contenidos/SitePages/Seguridad-de-la-Informacion.aspx",
+  "parentId": "624eb14d83310706bcca665b",
+  "number": "4",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"6299c2f756d0881e18f0cefa"
+  },
+  "iconName": "",
+  "title": "Precios",
+  "href": "/sites/PortalComercial{env}/contenidos/SitePages/Precios.aspx",
+  "parentId": "62c6bc09a4a2981cf49d2625",
+  "number": "4",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+"$oid":"63033e0f3c4c1812b0b6420d"
+  },
+  "iconName": "",
+  "title": "CRM",
+  "href": "/crm?user={user}",
+  "parentId": "630336fd3c4c1812b0b6420c",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{	"$oid":"627a486ed72b041a0044bc4e"
+  },
+  "iconName": "",
+  "title": "Multicanal",
+  "href": "/sites/PortalComercial{env}/contenidos/SitePages/Multicanal.aspx",
+  "parentId": "61289f3e89c5cc17f4837868",
+  "number": "5",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"627a48e1d72b041a0044bc4f"
+  },
+  "iconName": "",
+  "title": "Previsión",
+  "href": "/sites/PortalComercial{env}/contenidos/SitePages/Previs.aspx",
+  "parentId": "61289f3e89c5cc17f4837868",
+  "number": "2",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"627a4949d72b041a0044bc50"
+  },
+  "iconName": "",
+  "title": "Seguros de Ahorro",
+  "href": "/sites/PortalComercial{env}/contenidos/SitePages/Seguros-de-Ahorro.aspx",
+  "parentId": "61289f3e89c5cc17f4837868",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"6214c01e491c0415a84f4fff"
+  },
+  "iconName": "",
+  "title": "Soportes",
+  "href": "/sites/PortalComercial{env}/contenidos/SitePages/Soportes-comerciales.aspx",
+  "parentId": "61289f3e89c5cc17f4837866",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"624eb29a83310706bcca665c"
+  },
+  "iconName": "",
+  "title": "Informes",
+  "href": "/sites/PortalComercial{env}/SitePages/Informes.aspx",
+  "parentId": "61289f3e89c5cc17f4837864",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"624eb34c83310706bcca665d"
+  },
+  "iconName": "",
+  "title": "Riesgos",
+  "href": "/sites/PortalComercial{env}/SitePages/InformaciondeRiesgos.aspx",
+  "parentId": "624eb14d83310706bcca665b",
+  "number": "2",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"624eb38f83310706bcca665e"
+  },
+  "iconName": "",
+  "title": "Área fiscal",
+  "href": "/sites/PortalComercial{env}/SitePages/AreaFiscal.aspx",
+  "parentId": "624eb14d83310706bcca665b",
+  "number": "3",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"629f0f5b56d0881e18f0cefb"
+  },
+  "iconName": "",
+  "title": "Inteligencia Comercial",
+  "href": "/sites/PortalComercial{env}/contenidos/SitePages/Inteligencia-Comercial.aspx",
+  "parentId": "624eb14d83310706bcca665b",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id":{
+	"$oid":"626a7e56d72b041a0044bc49"
+  },
+  "iconName": "",
+  "title": "Marketing",
+  "href": "/sites/PortalComercial{env}/SitePages/Marketing.aspx",
+  "parentId": "624eb14d83310706bcca665b",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "602b9b9d84586d101c61bdd7"
+  },
+  "title": "reporting",
+  "number": "1",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "option": "CONSULTATION",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "parentId": "",
+  "rel": "",
+  "href": ""
+},{
+  "_id": {
+    "$oid": "602b9ca484586d101c61bdd9"
+  },
+  "title": "advice",
+  "number": "0",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "option": "OPERATIONAL",
+  "color": "dark-blue",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "parentId": "",
+  "rel": "",
+  "href": ""
+},{
+  "_id":{
+	"$oid":"619b716f46abd71f88b207f7"
+  },
+  "title": "gdc_hiring",
+  "number": "1",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "option": "OPERATIONAL",
+  "color": "dark-green",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "parentId": "",
+  "rel": "",
+  "href": ""
+},{
+  "_id": {
+    "$oid": "602b9cec84586d101c61bdda"
+  },
+  "title": "order_management",
+  "number": "2",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "option": "OPERATIONAL",
+  "color": "purple",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "parentId": "",
+  "rel": "",
+  "href": ""
+},{
+  "_id": {
+    "$oid": "602b9d2b84586d101c61bddb"
+  },
+  "title": "clients",
+  "number": "3",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "option": "OPERATIONAL",
+  "color": "light-green",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "parentId": "",
+  "rel": "",
+  "href": ""
+},{
+  "_id":{
+	"$oid":"61894b5c7a407e1b2411304f"
+  },
+  "title": "taxation",
+  "number": "4",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "option": "OPERATIONAL",
+  "color": "light-blue",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "parentId": "",
+  "rel": "",
+  "href": ""
+},{
+  "_id": {
+    "$oid": "602b9d7084586d101c61bddc"
+  },
+  "title": "portfolio_report",
+  "parentId": "602b9b9d84586d101c61bdd7",
+  "number": "0",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "rel": "noopener noreferrer nofollow",
+  "type": "MENU_CONTEXTUAL",
+  "href": "openfinance?SIP={sip}&action=REP",
+  "option": "CONSULTATION",
+  "iconName": "",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true
+},{
+  "_id": {
+    "$oid": "602b9deb84586d101c61bddd"
+  },
+  "title": "timely",
+  "parentId": "602b9ca484586d101c61bdd9",
+  "number": "0",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "rel": "noopener noreferrer nofollow",
+  "type": "MENU_CONTEXTUAL",
+  "href": "openfinance?SIP={sip}&action=AP",
+  "option": "OPERATIONAL",
+  "iconName": "",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true
+},{
+  "_id": {
+    "$oid": "602b9df984586d101c61bdde"
+  },
+  "title": "recurring",
+  "parentId": "602b9ca484586d101c61bdd9",
+  "number": "1",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "rel": "noopener noreferrer nofollow",
+  "type": "MENU_CONTEXTUAL",
+  "href": "openfinance?SIP={sip}&action=AR",
+  "option": "OPERATIONAL",
+  "iconName": "",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true
+},{
+  "_id": {
+    "$oid": "602b9e0584586d101c61bddf"
+  },
+  "title": "Listado de órdenes",
+  "parentId": "602b9cec84586d101c61bdda",
+  "number": "0",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "rel": "noopener noreferrer nofollow",
+  "type": "MENU_CONTEXTUAL",
+  "href": "#REPLACEORIGIN#api/escritorio-unificado/v1/tareas-activas/{sip}",
+  "option": "OPERATIONAL",
+  "iconName": "",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true
+},{
+  "_id": {
+    "$oid": "602b9e1684586d101c61bde0"
+  },
+  "title": "new_order",
+  "parentId": "602b9cec84586d101c61bdda",
+  "number": "1",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "rel": "noopener noreferrer nofollow",
+  "type": "MENU_CONTEXTUAL",
+  "href": "#REPLACEORIGIN#api/escritorio-unificado/v1/nueva-orden/{sip}",
+  "option": "OPERATIONAL",
+  "iconName": "",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true
+},{
+  "_id": {
+    "$oid": "602b9e2584586d101c61bde1"
+  },
+  "title": "maintenance",
+  "parentId": "602b9d2b84586d101c61bddb",
+  "number": "0",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "rel": "noopener noreferrer nofollow",
+  "type": "MENU_CONTEXTUAL",
+  "href": "#REPLACEORIGIN#api/escritorio-unificado/v1/alta-mantenimiento-cliente/{sip}",
+  "option": "OPERATIONAL",
+  "iconName": "",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true
+},{
+  "_id": {
+    "$oid": "6087baca7c9eef1a48907720"
+  },
+  "title": "Acceso al Perfilador",
+  "parentId": "602b9d2b84586d101c61bddb",
+  "number": "1",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "rel": "noopener noreferrer nofollow",
+  "type": "MENU_CONTEXTUAL",
+  "href": "#REPLACEORIGIN#api/escritorio-unificado/v1/pitchbook-interactivo",
+  "option": "OPERATIONAL",
+  "iconName": "",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true
+},
+{
+  "_id":{
+	"$oid":"61894bc17a407e1b24113050"
+  },
+  "title": "tax_simulator",
+  "parentId": "61894b5c7a407e1b2411304f",
+  "number": "0",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "rel": "noopener noreferrer nofollow",
+  "type": "MENU_CONTEXTUAL",
+  "href": "#REPLACEORIGIN#api/escritorio-unificado/v1/simulador-fiscal/url",
+  "option": "OPERATIONAL",
+  "iconName": "",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true
+},
+{
+  "_id":{
+	"$oid":"60c71c8e77124e101c1e933d"
+  },
+  "iconName": "",
+  "title": "crm",
+  "number": "3",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "option": "CONSULTATION",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "parentId": "",
+  "rel": "",
+  "href": ""
+},
+{
+  "_id":{
+	"$oid":"60c71cf177124e101c1e933e"
+  },
+  "iconName": "",
+  "title": "crm_client",
+  "parentId": "60c71c8e77124e101c1e933d",
+  "number": "0",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "href": "crm?SIP={sip}&user={user}",
+  "option": "CONSULTATION",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "rel": "noopener noreferrer nofollow"
+},
+{
+  "_id":{
+	"$oid":"60c71d5b77124e101c1e933f"
+  },
+  "iconName": "",
+  "title": "rentabilidad",
+  "number": "4",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "option": "CONSULTATION",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "parentId": "",
+  "rel": "",
+  "href": ""
+},
+{
+  "_id":{
+	"$oid":"60c71da077124e101c1e9340"
+  },
+  "iconName": "",
+  "title": "hired_products",
+  "parentId": "60c71d5b77124e101c1e933f",
+  "number": "0",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "href": "#REPLACEORIGIN#api/escritorio-unificado/v1/rentabilidades/{sip}",
+  "option": "CONSULTATION",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "rel": "noopener noreferrer nofollow"
+},
+{
+  "_id":{
+	"$oid":"60dad59c77124e101c1e9341"
+  },
+  "iconName": "",
+  "title": "online_bank",
+  "number": "5",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "option": "CONSULTATION",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "parentId": "",
+  "rel": "",
+  "href": ""
+},{
+  "_id":{
+	"$oid":"619b72a546abd71f88b207f9"
+  },
+  "iconName": "",
+  "title": "new_hiring",
+  "parentId": "619b716f46abd71f88b207f7",
+  "number": "0",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "option": "OPERATIONAL",
+  "color": "",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "rel": "noopener noreferrer nofollow",
+  "href": "#REPLACEORIGIN#api/escritorio-unificado/v1/contratacion"
+},{
+  "_id":{
+	"$oid":"619b72da46abd71f88b207fa"
+  },
+  "iconName": "",
+  "title": "ongoing_processes",
+  "parentId": "619b716f46abd71f88b207f7",
+  "number": "1",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "option": "OPERATIONAL",
+  "color": "",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "rel": "noopener noreferrer nofollow",
+  "href": "terminal-operativo/#/mis-procesos"
+},
+{
+  "_id":{
+   "$oid":"61a78b6746abd71f88b207fe"
+  },
+  "iconName": "",
+  "title": "global_position",
+  "number": "0",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "href": "",
+  "option": "CONSULTATION",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "rel": "noopener noreferrer nofollow"
+},
+{
+  "_id":{
+   "$oid":"61a78bdf46abd71f88b207ff"
+  },
+  "iconName": "",
+  "title": "portal_name",
+  "parentId": "61a78b6746abd71f88b207fe",
+  "number": "0",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "href": "terminal-operativo/#/servicios-inversion/posicion-global/{sip}/{tipoCliente}?respComercial={respComercial}",
+  "option": "CONSULTATION",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "rel": "noopener noreferrer nofollow"
+},
+{
+  "_id":{
+   "$oid":"623d8f7a83310706bcca6657"
+  },
+  "iconName": "",
+  "title": "commissions",
+  "number": "2",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "href": "",
+  "option": "CONSULTATION",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "rel": "noopener noreferrer nofollow"
+},
+{
+  "_id":{
+   "$oid":"623d8f9283310706bcca6658"
+  },
+  "iconName": "",
+  "title": "liquidations_investment_services",
+  "parentId": "623d8f7a83310706bcca6657",
+  "number": "0",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "type": "MENU_CONTEXTUAL",
+  "href": "terminal-operativo/#/servicios-inversion/liquidaciones-custodia/{sip-zero}",
+  "option": "CONSULTATION",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "targetAngular": "",
+  "targetSp": false,
+  "visibleSp": false,
+  "visibleAngular": true,
+  "rel": "noopener noreferrer nofollow"
+},
+{
+  "_id":{
+	"$oid":"630f4d874d628a1ae5180cd3"
+  },
+  "iconName": "CRM2",
+  "title": "CRM",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741b",
+  "number": "5",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},
+{
+  "_id":{
+	"$oid":"630f569e4d628a1ae5180cd5"
+  },
+  "iconName": "",
+  "title": "CRM",
+  "href": "/crm?user={user}",
+  "parentId": "630f4d874d628a1ae5180cd3",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_blank",
+  "targetAngular": "_blank",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6351107185955a25a92289ad"
+  },
+  "iconName": "",
+  "title": "opc",
+  "href": "/sites/DocumentacionOPC{env}",
+  "parentId": "1",
+  "number": "0",
+  "className": "mainMenu__link",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "idSp": "",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+{
+  "_id": {
+    "$oid": "6351111b85955a25a92289ae"
+  },
+  "iconName": "OPC",
+  "title": "Inicio OPC",
+  "href": "",
+  "parentId": "6351107185955a25a92289ad",
+  "number": "0",
+  "className": "iconList__item iconList__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "aside-inicio",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "635111b085955a25a92289b0"
+  },
+  "iconName": "EditList",
+  "title": "Proyectos",
+  "href": " ",
+  "parentId": "6351107185955a25a92289ad",
+  "number": "1",
+  "className": "iconList__item iconList__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "aside-inicio",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351145485955a25a92289b1"
+  },
+  "iconName": "bill",
+  "title": "Partidas Ppto.",
+  "href": " ",
+  "parentId": "6351107185955a25a92289ad",
+  "number": "2",
+  "className": "iconList__item iconList__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "aside-inicio",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351147585955a25a92289b2"
+  },
+  "iconName": "SettingOk",
+  "title": "Evolutivos",
+  "href": " ",
+  "parentId": "6351107185955a25a92289ad",
+  "number": "3",
+  "className": "iconList__item iconList__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "aside-inicio",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351148b85955a25a92289b3"
+  },
+  "iconName": "help-circle",
+  "title": "Soporte y ayuda",
+  "href": " ",
+  "parentId": "6351107185955a25a92289ad",
+  "number": "4",
+  "className": "iconList__item iconList__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "idSp": "aside-inicio",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351174d85955a25a92289b4"
+  },
+  "iconName": "",
+  "title": "Cartera",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/InformeCartera.aspx",
+  "parentId": "635111b085955a25a92289b0",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351176385955a25a92289b5"
+  },
+  "iconName": "",
+  "title": "Proyectos por Programa",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/Proyectos-por-Programa.aspx",
+  "parentId": "635111b085955a25a92289b0",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351177d85955a25a92289b6"
+  },
+  "iconName": "",
+  "title": "Consulta de Proyecto",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/Consulta-de-Proyecto.aspx",
+  "parentId": "635111b085955a25a92289b0",
+  "number": "2",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351179185955a25a92289b7"
+  },
+  "iconName": "",
+  "title": "Informes",
+  "href": "/sites/DocumentacionOPC{env}",
+  "parentId": "635111b085955a25a92289b0",
+  "number": "3",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "635117aa85955a25a92289b8"
+  },
+  "iconName": "",
+  "title": "Mis Partidas",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/Mis-partidas.aspx",
+  "parentId": "6351145485955a25a92289b1",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "635117bf85955a25a92289b9"
+  },
+  "iconName": "",
+  "title": "Buscador de Partidas",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/Buscar-partidas.aspx",
+  "parentId": "6351145485955a25a92289b1",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "635117d585955a25a92289ba"
+  },
+  "iconName": "",
+  "title": "Buscador Avanzado",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/Otras-consultas-de-inter%C3%A9s.aspx",
+  "parentId": "6351145485955a25a92289b1",
+  "number": "3",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351180385955a25a92289bc"
+  },
+  "iconName": "",
+  "title": "Consulta de Evolutivo",
+  "href": "/sites/DocumentacionOPC{env}",
+  "parentId": "6351147585955a25a92289b2",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351181a85955a25a92289bd"
+  },
+  "iconName": "",
+  "title": "Evolutivos Priorizados",
+  "href": "/sites/DocumentacionOPC{env}",
+  "parentId": "6351147585955a25a92289b2",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351182e85955a25a92289be"
+  },
+  "iconName": "",
+  "title": "Informes",
+  "href": "/sites/DocumentacionOPC{env}",
+  "parentId": "6351147585955a25a92289b2",
+  "number": "2",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351184985955a25a92289bf"
+  },
+  "iconName": "",
+  "title": "Vision general",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/Vision-general.aspx",
+  "parentId": "6351148b85955a25a92289b3",
+  "number": "0",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351187285955a25a92289c0"
+  },
+  "iconName": "",
+  "title": "Principales Roles",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/%C2%BFQu%C3%A9-se-espera-de-m%C3%AD-.aspx",
+  "parentId": "6351148b85955a25a92289b3",
+  "number": "1",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351188885955a25a92289c1"
+  },
+  "iconName": "",
+  "title": "Ciclo de Vida de un Proyecto",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/Ciclo-de-Vida.aspx",
+  "parentId": "6351148b85955a25a92289b3",
+  "number": "2",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "6351189d85955a25a92289c2"
+  },
+  "iconName": "",
+  "title": "Plantilla y documentos",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/Documentos-de-referencia.aspx",
+  "parentId": "6351148b85955a25a92289b3",
+  "number": "3",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "635118b085955a25a92289c3"
+  },
+  "iconName": "",
+  "title": "Preguntas Frecuentes",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/Preguntas-frecuentes.aspx?Mode=Edit",
+  "parentId": "6351148b85955a25a92289b3",
+  "number": "3",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "635118c985955a25a92289c4"
+  },
+  "iconName": "",
+  "title": "Manual Jira / Confluence",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/Jira.aspx",
+  "parentId": "6351148b85955a25a92289b3",
+  "number": "3",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ] 
+},{
+  "_id": {
+    "$oid": "635a6ac5ce0316d1134176e5"
+  },
+  "iconName": "top",
+  "title": "Clientes",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741e",
+  "number": "3",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "635a6aecce0316d1134176e6"
+  },
+  "iconName": "minimize",
+  "title": "Incidental",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741e",
+  "number": "7",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "635a6b09ce0316d1134176e7"
+  },
+  "iconName": "personal-loans-lcci",
+  "title": "Controles Operativos",
+  "href": "",
+  "parentId": "602e39ac4bd67d1dc057741e",
+  "number": "4",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "635b9014ce0316d1134176e8"
+  },
+  "iconName": "",
+  "title": "Clientes",
+  "href": "/sites/CentroConocimiento{env}/procesos/SitePages/DistributivaFam.aspx?familia=11&famTitle=Clientes",
+  "parentId": "635a6ac5ce0316d1134176e5",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "635b9037ce0316d1134176e9"
+  },
+  "iconName": "",
+  "title": "Incidental",
+  "href": "/sites/CentroConocimiento{env}/procesos/SitePages/DistributivaFam.aspx?familia=26&famTitle=Incidental",
+  "parentId": "635a6aecce0316d1134176e6",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "635b9052ce0316d1134176ea"
+  },
+  "iconName": "",
+  "title": "Controles Operativos",
+  "href": "/sites/CentroConocimiento{env}/procesos/SitePages/DistributivaFam.aspx?familia=25&famTitle=Controles%20Operativos&sessionId=67f3267a-25b1-4d83-b556-ebd61b44a533",
+  "parentId": "635a6b09ce0316d1134176e7",
+  "number": "0",
+  "className": "",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": false,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": true,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+},{
+  "_id": {
+    "$oid": "635b9469ce0316d1134176eb"
+  },
+  "iconName": "",
+  "title": "Inicio OPC",
+  "href": "/sites/DocumentacionOPC{env}",
+  "parentId": "6351111b85955a25a92289ae",
+  "number": "0",
+  "className": "iconList__item iconList__item--double",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": false,
+  "externalLinkSh": false,
+  "idSp": "aside-inicio",
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]
+ },
+ {
+  "_id": {
+    "$oid": "63750d9c29c5daece88ef9a8"
+  },
+  "iconName": "",
+  "title": "Buscador de Contratos",
+  "href": "/sites/DocumentacionOPC{env}/SitePages/Bus.aspx",
+  "parentId": "6351145485955a25a92289b1",
+  "number": "2",
+  "className": "itemMenu__item itemMenu__item--subMenu",
+  "toolTipText": "",
+  "shortTitle": "",
+  "roles": [
+    "admin",
+    "client",
+    "reader"
+  ],
+  "targetSp": "_self",
+  "targetAngular": "_self",
+  "visibleSp": true,
+  "visibleAngular": true,
+  "type": "MENU",
+  "rel": "",
+  "restApi": false,
+  "externalLinkAngular": true,
+  "externalLinkSh": false,
+  "environments": [
+    "DEV",
+    "TEST",
+    "FF",
+	"PRE",
+	"PRO"
+  ]}]
